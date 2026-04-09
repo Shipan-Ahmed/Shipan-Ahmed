@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shipan-Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/2529c173-9811-4d64-8c5c-1f70a847bf56" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shipan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shipan-ahmed" /> </p>
 
