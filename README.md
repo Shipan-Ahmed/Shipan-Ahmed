@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shipan-Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/343f2c42-57c2-4d77-b82d-86e4c6727507" />
-## 🚀 About Me
-I am a passionate Full Stack Developer with a strong foundation in Data Structures & Algorithms.  
-I love building scalable web applications and solving complex problems through code.
-
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/3b1848c3-9422-4bed-a617-34203ebbf5a5" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shipan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shipan-ahmed" /> </p>
 
@@ -12,17 +8,21 @@ I love building scalable web applications and solving complex problems through c
 
 <p align="left"> <a href="https://twitter.com/mohammad_shipan" target="blank"><img src="https://img.shields.io/twitter/follow/mohammad_shipan?logo=twitter&style=for-the-badge" alt="mohammad_shipan" /></a> </p>
 
-    - 🌱 I’m currently learning ** Node.js, Express.js, MongoDB etc **
+## 🚀 About Me
+I am a passionate Full Stack Developer with a strong foundation in Data Structures & Algorithms.  
+I love building scalable web applications and solving complex problems through code.
 
-        - 💬 Ask me about ** react.js, next.js, Node.js, Express.js etc **
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB etc**
 
-            - 📫 How to reach me ** shipanahmed1999@gmail.com**
+- 💬 Ask me about **react.js, next.js, Node.js, Express.js etc**
 
-                - 📄 Know about my experiences[https://drive.google.com/file/d/1TFpddAJEb54ptdjWCxFH-ph4e1JHHsGi/view?usp=sharing](https://drive.google.com/file/d/1TFpddAJEb54ptdjWCxFH-ph4e1JHHsGi/view?usp=sharing)
+- 📫 How to reach me **shipanahmed1999@gmail.com**
 
-- ⚡ Fun fact ** I enjoy solving competitive programming problems more than watching movies 😄
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TFpddAJEb54ptdjWCxFH-ph4e1JHHsGi/view?usp=sharing](https://drive.google.com/file/d/1TFpddAJEb54ptdjWCxFH-ph4e1JHHsGi/view?usp=sharing)
 
-    < h3 align = "left" > Connect with me:</ >
+- ⚡ Fun fact **I enjoy solving competitive programming problems more than watching movies 😄**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohammad_shipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammad_shipan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shipan-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shipan-ahmed" height="30" width="40" /></a>
@@ -36,7 +36,6 @@ I love building scalable web applications and solving complex problems through c
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipan-ahmed&show_icons=true&locale=en&layout=compact" alt="shipan-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-s<img width="1345" height="915" alt="image" src="https://github.com/user-attachments/assets/d3ae3a02-8839-4dbb-9761-cde7a9f3b4ce" />
-tats.vercel.app/api?username=shipan-ahmed&show_icons=true&locale=en" alt="shipan-ahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shipan-ahmed&show_icons=true&locale=en" alt="shipan-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shipan-ahmed&" alt="shipan-ahmed" /></p>
