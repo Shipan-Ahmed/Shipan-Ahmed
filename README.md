@@ -31,6 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipan-ahmed&show_icons=true&locale=en&layout=compact" alt="shipan-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shipan-ahmed&show_icons=true&locale=en" alt="shipan-ahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-s<img width="1345" height="915" alt="image" src="https://github.com/user-attachments/assets/d3ae3a02-8839-4dbb-9761-cde7a9f3b4ce" />
+tats.vercel.app/api?username=shipan-ahmed&show_icons=true&locale=en" alt="shipan-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shipan-ahmed&" alt="shipan-ahmed" /></p>
