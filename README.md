@@ -2,15 +2,16 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/3b1848c3-9422-4bed-a617-34203ebbf5a5" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shipan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shipan-ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shipan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shipan-ahmed" /> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shipan-ahmed" alt="shipan-ahmed" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shipan-ahmed" alt="shipan-ahmed" /></a> 
 
-<p align="left"> <a href="https://twitter.com/mohammad_shipan" target="blank"><img src="https://img.shields.io/twitter/follow/mohammad_shipan?logo=twitter&style=for-the-badge" alt="mohammad_shipan" /></a> </p>
+ <a href="https://twitter.com/mohammad_shipan" target="blank"><img src="https://img.shields.io/twitter/follow/mohammad_shipan?logo=twitter&style=for-the-badge" alt="mohammad_shipan" /></a> </p>
 
 ## 🚀 About Me
 I am a passionate Full Stack Developer with a strong foundation in Data Structures & Algorithms.  
 I love building scalable web applications and solving complex problems through code.
+
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB etc**
 
