@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/3b1848c3-9422-4bed-a617-34203ebbf5a5" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shipan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shipan-ahmed" /> 
+<p align="left" display="flex"> <img src="https://komarev.com/ghpvc/?username=shipan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shipan-ahmed" /> 
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shipan-ahmed" alt="shipan-ahmed" /></a> 
 
