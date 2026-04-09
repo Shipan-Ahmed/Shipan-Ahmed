@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shipan-Ahmed</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shipan-Ahmed;Full+Stack+Developer;Competitive+Programmer" />
+</p>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/3b1848c3-9422-4bed-a617-34203ebbf5a5" />
 
