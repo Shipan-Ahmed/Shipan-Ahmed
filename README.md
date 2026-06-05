@@ -10,6 +10,28 @@
 
  <a href="https://twitter.com/mohammad_shipan" target="blank"><img src="https://img.shields.io/twitter/follow/mohammad_shipan?logo=twitter&style=for-the-badge" alt="mohammad_shipan" /></a> </p>
 
+<div align="center">
+
+  <h1>SHIPAN AHMED</h1>
+  <p><b>Full-Stack Developer &bull; Competitive Programmer &bull; Bangladesh 🇧🇩</b></p>
+
+  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+  <p>
+    🏆 <b>2x ICPC Dhaka Regionalist</b> &nbsp;|&nbsp; 📊 <b>Pupil @ Codeforces</b>
+  </p>
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/C++ -00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+
+</div>
 ## 🚀 About Me
 I am a passionate Full Stack Developer with a strong foundation in Data Structures & Algorithms.  
 I love building scalable web applications and solving complex problems through code.
