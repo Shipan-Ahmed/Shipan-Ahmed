@@ -99,4 +99,13 @@ I love building scalable web applications and solving complex problems through c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipan-Ahmed&layout=compact&theme=tokyonight" />
 
 </p>
+## 📊 Analytics & Performance
 
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Shipan-Ahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipan-Ahmed&layout=compact&theme=tokyonight" alt="Languages" />
+  
+  <br /><br />
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shipan-Ahmed&theme=tokyonight" alt="Streak" />
+</div>
